@@ -1,0 +1,109 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+html {
+  background-color: crimson;
+}
+.container {
+  background-color: crimson;
+  color: azure;
+  padding: 30px 0;
+
+  max-width: 1000px;
+}
+.upper-left {
+  float: left;
+  max-width: 50%;
+}
+.poster-heading {
+  text-align: left;
+  margin-bottom: 20px;
+}
+.poster-heading span {
+  font-weight: bold;
+  color: yellow;
+}
+.fam-invite {
+  margin-bottom: 10px;
+}
+.fam-invite p {
+  text-align: left;
+  font-size: 14;
+}
+.d-name {
+  text-align: center;
+}
+.d-name span:nth-child(1) {
+  color: yellow;
+  font-size: 32px;
+}
+.d-name-2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+.d-name span:nth-child(5) {
+  font-weight: 600;
+}
+.d-name p {
+  padding-bottom: 10px;
+}
+
+.d-age {
+  text-align: center;
+  color: yellow;
+  font-weight: bold;
+  border: 3px solid yellow;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin: 0 150px;
+}
+
+.upper-right {
+  max-width: 49%;
+  float: left;
+  margin-bottom: 50px;
+}
+.d-img {
+  max-width: 100%;
+  margin: 0;
+}
+.img-container {
+  background-color: whitesmoke;
+  padding: 10px 10px 0 10px;
+  border: 15px solid gold;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+.bottom {
+  text-align: center;
+}
+.families {
+  font-weight: 500;
+}
+.families span {
+  color: yellow;
+  text-transform: uppercase;
+}
+.arr-heading {
+  color: yellow;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.arr-heading p:nth-child(1) {
+  background-color: yellow;
+  color: crimson;
+  padding: 5px;
+  margin: 0 180px;
+}
+.arr-heading p:nth-child(2) {
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.arr-lead {
+  color: yellow;
+}

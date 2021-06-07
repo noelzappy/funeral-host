@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+span {
+  color: gold;
+}
+
+p {
+  color: aliceblue;
+}
+.container {
+  border: 2px solid #000;
+  max-width: 720px;
+  margin: auto;
+  width: 700px;
+  padding: 50px;
+  background-color: brown;
+}
+
+.top {
+  width: 100%;
+}
+
+.top-left {
+  float: left;
+  width: 400px;
+}
+
+.top-right {
+  background-image: url(./img/2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  max-width: 40%;
+  width: 250px;
+  height: 50%;
+  padding: 200px;
+  margin-left: 80px;
+}
+.ctg {
+  font-weight: bold;
+  color: goldenrod;
+  font-style: italic;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.top-left p {
+  text-align: center;
+}
+.deceased-details {
+  margin: 20px auto;
+  text-align: center;
+  font-weight: bold;
+}
+.deceased-details h2 {
+  color: goldenrod;
+}
+.deceased-details h1 {
+  color: aliceblue;
+  font-size: 54px;
+}
+.age {
+  background-color: antiquewhite;
+  border-radius: 100%;
+  padding: 15px;
+  margin: 10px auto;
+  position: absolute;
+  right: 200px;
+  overflow: auto;
+  top: 350px;
+  text-align: center;
+}
+
+.bottom {
+}
+
+.dd-heading {
+  color: gold;
+  margin-top: 20px;
+}
+
+.dd-aka {
+  background-color: #000;
+  padding: 10px;
+  margin: auto 100px;
+  font-size: 24px;
+}
+.bt-container {
+  margin-top: 20px;
+  border-top: 2px solid goldenrod;
+  padding: 10px 0;
+}
+
+.bottom-left p {
+  border: 1px solid goldenrod;
+  margin: 10px auto;
+  padding: 5px;
+}

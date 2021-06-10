@@ -1,0 +1,88 @@
+body {
+  background: -o-linear-gradient();
+}
+
+span {
+  color: coral;
+}
+h5 {
+  color: coral;
+}
+.left-container {
+  border-right: 2px solid coral;
+}
+.img-container {
+  align-items: center;
+  text-align: center;
+  margin: 50px auto 10px auto;
+}
+
+.img-sm {
+  width: 300px;
+}
+
+.name-section {
+  background-color: coral;
+  margin: 0;
+  color: aliceblue;
+  font-weight: bold;
+}
+.name-section h3 {
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.name {
+  width: 70% !important;
+  max-width: 70% !important;
+}
+
+.age-section {
+  max-width: 28%;
+  width: 28%;
+}
+
+.age {
+  border: 10px solid white;
+  padding: 10px;
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: -20px;
+  border-radius: 100%;
+  align-items: center;
+  z-index: 3;
+}
+.aged {
+  color: aliceblue;
+  font-size: 45px;
+}
+.yrs {
+  color: aliceblue;
+}
+
+.f-arrang {
+  text-align: center;
+  color: aliceblue;
+  background-color: black;
+  border-radius: 10px;
+  margin-top: 15px;
+  font-weight: bold;
+}
+.right-container {
+  margin-top: 50px;
+}
+.heading {
+  color: crimson;
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.symp {
+  background-color: black;
+  color: aliceblue;
+  border-radius: 10px;
+  font-size: 16px;
+}

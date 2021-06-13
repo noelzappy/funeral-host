@@ -1,0 +1,14 @@
+.cc {
+  max-width: 720px;
+  width: 720px;
+  padding: auto;
+  border: 2px solid red;
+}
+.heading-txt {
+  text-align: center;
+}
+
+.heading-txt h1 {
+  font-size: 38px;
+  font-weight: bold;
+}

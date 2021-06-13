@@ -1,62 +1,50 @@
-.top-head {
-  text-align: center;
-  background-color: brown;
-  color: aliceblue;
-  margin: 0;
-}
-
-.top-head h1 {
-  font-size: 52px;
-  margin: 0;
-  padding: 0;
-}
-.top-head span {
-  margin: 0;
-  color: yellow;
-  padding: 0;
-  font-size: 86px;
-}
-
-.bel-head {
-  text-align: center;
-  padding-bottom: 10px;
-  font-weight: bold;
-}
-
-.name-section {
-  background-color: black;
-  color: aliceblue;
-  text-align: center;
-  padding: 10px 0;
-  font-weight: bold;
-}
-
-.aka {
-  text-align: center;
-  font-size: 22px;
-  color: brown;
-  font-weight: bold;
-}
-.aka span {
+h1 {
   font-style: italic;
 }
-
-.ext {
-  background-color: brown;
+.cc {
+  background-color: rgba(54, 19, 19, 0.61);
+  border: 10px solid white;
   color: aliceblue;
-  padding: 10px;
-  font-weight: bold;
-}
-.ext-p span {
-  color: yellow;
+  padding: 50px auto;
+  width: 720px;
 }
 
-.symp {
+.img-section {
+  max-width: 50%;
+  width: 50%;
+  margin: 20px auto;
+  border: 10px solid aliceblue;
+  border-radius: 70%;
+  padding: 50%;
+  background-image: url(./img/2.png);
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: aliceblue;
+}
+.name-section {
   text-align: center;
-  padding: 8px;
-  margin: 10px auto;
-  font-size: 23px;
+  margin-top: 50px;
+}
+.name-section p {
+  font-size: 18px;
   font-weight: bold;
-  color: aliceblue;
-  background-color: black;
+  margin: 0;
+}
+
+.cc-heading {
+  margin-top: 20px;
+}
+.all-oth p {
+  margin: 30px auto;
+}
+
+.inv {
+  text-align: center;
+  font-size: 14px;
+  margin: 30px auto;
+  color: rgba(54, 19, 19, 0.61);
+  background-color: aliceblue;
+  padding: auto;
+  font-weight: bold;
 }

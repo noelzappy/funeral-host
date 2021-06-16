@@ -1,0 +1,84 @@
+.cc {
+  max-width: 720px;
+  width: 720px;
+  padding: auto;
+}
+
+.top-heading {
+  text-align: center;
+  color: #42123c;
+  margin: 10px auto;
+}
+
+.top-heading h1 {
+  font-size: 46px;
+  font-weight: bold;
+}
+
+.img-container {
+  border: 5px solid gray;
+  background-color: #42123c;
+}
+.details-section {
+  margin: 50px auto;
+}
+
+.age-section {
+  width: 35%;
+  max-width: 36%;
+  text-align: left;
+  align-items: flex-start;
+  background-color: #42123c;
+}
+
+.age-section h2 {
+  color: aliceblue;
+  background-color: #42123c;
+  font-size: 78px;
+  padding: 10px;
+  border: 5px solid white;
+  margin: 15px auto;
+}
+.age-section span {
+  font-style: italic;
+  font-size: 26px;
+}
+
+.name-section {
+  text-align: left;
+  padding-top: 25px;
+}
+.name-section h2 {
+  font-style: italic;
+  background-color: #42123c;
+  color: aliceblue;
+  width: 170px;
+  font-size: 36px;
+}
+
+.name-section h1 {
+  font-size: 58px;
+  font-weight: bold;
+  color: #42123c;
+}
+
+.others {
+  margin-top: 10px;
+  width: 100%;
+  background-color: #42123c;
+  color: aliceblue;
+  padding: 5px;
+}
+.others p {
+  margin: 20px auto;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.others span {
+  background-color: #42123c;
+  border: 3px solid white;
+  padding: 10px;
+  margin: 10px;
+  font-size: 2rem;
+  font-style: italic;
+}

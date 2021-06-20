@@ -1,0 +1,86 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+}
+
+.top-section {
+  background-image: url(./img/2.png);
+  height: 720px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  margin-top: 10px;
+  z-index: 1;
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+}
+
+.top-section h1 {
+  font-size: 85px;
+  font-weight: bold;
+  color: rgba(252, 49, 49, 0.5);
+  font-family: cursive;
+}
+
+.lower-section {
+  margin-top: -50px;
+  z-index: 2;
+  font-size: 1rem;
+}
+.name-section p:nth-child(1) {
+  font-size: 44px;
+  color: goldenrod;
+  font-weight: bolder;
+  text-align: center;
+}
+.name-section span {
+  font-weight: 100;
+  font-style: italic;
+  color: whitesmoke;
+}
+.name-section p:nth-child(2) {
+  text-align: center;
+  font-size: 74px;
+  margin-top: -45px;
+  font-weight: bolder;
+}
+.d {
+  text-align: center;
+  margin-top: -10px;
+  font-size: 20px;
+}
+
+.d-heading {
+  border-bottom: 3px solid violet;
+  margin: auto 34px;
+  font-size: 25px;
+}
+
+.dd {
+  font-family: "Lucida Sans";
+  font-weight: bold;
+  padding-top: 8px;
+}
+.tt {
+  font-weight: bold;
+}
+
+.d-sub-heading {
+  border-bottom: 3px solid violet;
+  margin: auto 44px;
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+.d-sect-2 {
+  border-right: 7px dashed goldenrod;
+  border-left: 7px dashed goldenrod;
+}
+
+.footer {
+  text-align: center;
+  background-color: blueviolet;
+  padding: 20px;
+  font-size: 26px;
+  color: aliceblue;
+}

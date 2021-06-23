@@ -1,0 +1,74 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+}
+.inner {
+  background-image: url(./img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 0;
+}
+.footer {
+  background-color: rgb(6, 6, 46);
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+.top-section {
+  text-align: center;
+  color: white;
+  z-index: 20;
+  padding-top: 50px;
+}
+.top-section h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.top-section span {
+  font-size: 5rem;
+}
+.d-img {
+  margin: 10px auto;
+  opacity: 0.9;
+  border-bottom-left-radius: 200px;
+  border-bottom-right-radius: 200px;
+  background: radial-gradient(#0a1931, #1859db60, rgba(0, 26, 255, 0.027));
+}
+
+.lower-section {
+  background-color: #0a1931;
+  color: aliceblue;
+  text-align: center;
+  margin-top: -50px;
+  z-index: 1;
+  padding-top: 70px;
+  line-height: 1;
+}
+.name p:nth-child(1) {
+  font-size: 2.6rem;
+  font-weight: bold;
+  line-height: 1;
+  margin-bottom: 0;
+}
+.name p:nth-child(2) {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  line-height: 1;
+  margin-top: 0;
+}
+.age {
+  color: goldenrod;
+  margin-top: 30px;
+  padding-bottom: 50px;
+  font-size: 2rem;
+}
+.age p:nth-child(1) {
+  font-weight: bold;
+  font-size: 2.4rem;
+}

@@ -1,0 +1,100 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+}
+.footer {
+  background-color: rgb(6, 6, 46);
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.top-section {
+  background: url(./img/c.png);
+  padding-top: 50px;
+}
+.top-section p {
+  font-size: 2.5rem;
+  line-height: 1;
+  font-weight: bold;
+  text-align: center;
+}
+.top-section p span {
+  font-size: 3.2rem;
+  color: brown;
+}
+.thumbnail {
+  border: 15px solid white;
+  border-radius: 300px;
+  width: 200px;
+  position: relative;
+  top: 450px;
+  left: 250px;
+}
+.d-img {
+  width: 100%;
+}
+.row {
+  height: 700px;
+}
+.d-img {
+  background: url(./img/2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.age {
+  position: relative;
+  top: 570px;
+  left: 100px;
+  background-color: bisque;
+  margin: 0 120px;
+  border: 15px solid white;
+  border-radius: 15px;
+  padding: 20px;
+  color: black;
+  font-weight: bold;
+}
+#age {
+  font-size: 5rem;
+  color: black;
+}
+.lower-section {
+  border-top: 20px solid beige;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+  padding-top: 70px;
+}
+.name {
+  font-weight: bold;
+  color: bisque;
+  font-size: 2.4rem;
+  line-height: 1;
+}
+#rr {
+  font-size: 3rem;
+  color: white;
+}
+
+#rrr {
+  font-size: 1.6rem;
+  color: black;
+  background-color: bisque;
+  border-radius: 8px;
+  padding: 5px;
+}
+.date {
+  line-height: 1;
+  border: 10px solid white;
+  border-bottom: none;
+  margin-top: 50px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-left: 100px;
+  margin-right: 100px;
+}

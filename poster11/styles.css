@@ -1,0 +1,94 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+}
+.footer {
+  background-color: burlywood;
+  color: black;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+.top-section {
+  background-image: url(./img/2.png);
+  height: 720px;
+  background-size: 700px;
+  background-position: left;
+  background-repeat: no-repeat;
+  text-align: right;
+  padding-top: 50px;
+}
+
+.top-section h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  color: brown;
+  line-height: 1;
+  font-family: cursive;
+}
+.lower-section {
+  background-color: brown;
+  border-top: 5px solid burlywood;
+  color: burlywood;
+  font-size: 2rem;
+  margin-top: -20px;
+  margin-bottom: 0;
+  text-align: center;
+}
+.mp {
+  font-weight: bold;
+  font-size: 2.2rem;
+  margin-top: 50px;
+  line-height: 1;
+  margin-bottom: 0;
+}
+.mp span {
+  font-size: 4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+.mb {
+  font-weight: bold;
+  margin-top: 0;
+}
+.arra-head {
+  background-color: burlywood;
+  color: brown;
+  font-weight: bold;
+  margin: 10px 130px;
+}
+.my-img {
+  width: 170px;
+  font-family: Arial;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  color: white;
+  padding: 2px;
+  border: 10px dashed #f3c2b4;
+  background: linear-gradient(to top, green, 10px, transparent 10px),
+    linear-gradient(to right, green, 10px, transparent 10px),
+    linear-gradient(to bottom, green, 10px, transparent 10px),
+    linear-gradient(to left, green, 10px, transparent 10px);
+  background-origin: border-box;
+}
+
+.age {
+  background: linear-gradient(to top, brown, burlywood);
+  margin-left: 750px;
+  color: azure;
+  text-align: center;
+  font-size: 1.6rem;
+  padding: 10px;
+  line-height: 0.9;
+}
+.age span {
+  font-size: 7rem;
+  font-weight: bolder;
+}
+.extra-m {
+  margin-top: 150px;
+}

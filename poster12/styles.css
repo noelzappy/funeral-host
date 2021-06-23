@@ -1,0 +1,73 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+  background-color: #38423c;
+  color: burlywood;
+  text-align: justify;
+  padding-top: 30px;
+}
+.footer {
+  background-color: #b89762;
+  color: black;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.top-section h1 {
+  font-family: cursive;
+  text-align: center;
+  margin-right: 480px;
+  font-size: 4rem;
+  line-height: 0.7;
+}
+h3 {
+  font-size: 3.3rem;
+}
+
+.age-name {
+  background-color: burlywood;
+  color: #38423c;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  line-height: 1;
+  padding: 5px 5px 0 15px;
+  border-radius: 15px;
+}
+.name {
+  width: 76%;
+  font-weight: bold;
+  margin: auto;
+}
+#n-big {
+  font-size: 2.5rem;
+}
+#n-sm {
+  font-size: 0.9rem;
+  font-weight: normal;
+  letter-spacing: 7px;
+}
+.age {
+  width: 20%;
+  background-image: url(./img/4.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #c5b7a1;
+  text-align: center;
+  padding: 20px;
+  margin-right: -100px;
+}
+.age span {
+  font-size: 4rem;
+}
+
+.top-right {
+  background-image: url(./img/2.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

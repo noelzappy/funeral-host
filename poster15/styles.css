@@ -1,0 +1,43 @@
+.cc {
+  max-width: 980px;
+  width: 980px;
+  padding: auto;
+}
+
+.top-section {
+  padding-top: 50px;
+  height: 60%;
+  align-items: center;
+}
+.my-img {
+  margin: 0 auto;
+  width: 100%;
+}
+.lower-section {
+  height: 39%;
+  text-align: center;
+  color: white;
+}
+.heading {
+  background-color: black;
+  color: red;
+  font-size: 3rem;
+  margin: 0;
+  padding: 20px;
+}
+.name {
+  background-color: red;
+  margin-top: -20px;
+  padding-top: 20px;
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1;
+}
+.d {
+  background-color: red;
+  margin-top: -20px;
+  font-size: 2rem;
+  padding-top: 20px;
+  line-height: 1;
+  padding-bottom: 5px;
+}
